@@ -1,0 +1,4 @@
+C:\Users\Gabri\Documents\miapp\obj\Debug\netcoreapp2.1\miapp.csprojAssemblyReference.cache
+C:\Users\Gabri\Documents\miapp\obj\Debug\netcoreapp2.1\miapp.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Documents\miapp\obj\Debug\netcoreapp2.1\miapp.AssemblyInfoInputs.cache
+C:\Users\Gabri\Documents\miapp\obj\Debug\netcoreapp2.1\miapp.AssemblyInfo.cs
